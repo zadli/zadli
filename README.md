@@ -1,4 +1,4 @@
-### Hi there 💬
+### Hi there 👯
 
 <img align="left" alt="zadli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zadli&show_icons=true&hide_border=true" />
 
